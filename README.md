@@ -1,6 +1,6 @@
 ## 👏 Hi, I'm *Thomas T.*
 ##  About Me
-_Share some information about yourself, including your class, major, jobs, and extra-curriculars._
+_I am majoring in cybersecurity at UTSA. I used to be apart of Cross Country and multiple UIL groups. I a have also recieved ITF+ and Network+ certifications from CompTIA from my time at the iCSI magnet program_
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
